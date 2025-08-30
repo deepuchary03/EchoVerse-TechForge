@@ -31,7 +31,7 @@ It’s designed to make content more **accessible, engaging, and reusable** for 
 ---
 
 ## 🏗️ System Architecture  
-![System Architecture](path-to-your-architecture-diagram.png)  
+![System Architecture](./sysarch.jpg)  
 
 **Flow:**  
 1. User pastes text or uploads `.txt`  
@@ -42,7 +42,7 @@ It’s designed to make content more **accessible, engaging, and reusable** for 
 ---
 
 ## 📸 Output Screens  
-(Add your screenshots here, e.g., interface, text comparison, audio playback)  
+![](./output2.jpg)  
 
 ---
 
@@ -62,5 +62,6 @@ EchoVerse demonstrates how **AI + Speech Synthesis** can make text more expressi
 ---
 
 ✨ *Built with passion at [Hackathon Name]*  
+
 
 

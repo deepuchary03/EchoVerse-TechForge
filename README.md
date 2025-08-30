@@ -61,7 +61,8 @@ EchoVerse demonstrates how **AI + Speech Synthesis** can make text more expressi
 
 ---
 
-✨ *Built with passion at [Hackathon Name]*  
+✨ *Built with passion at [CognitiveX Hackathon at TKR]*  
+
 
 
 

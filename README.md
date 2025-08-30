@@ -42,7 +42,8 @@ It’s designed to make content more **accessible, engaging, and reusable** for 
 ---
 
 ## 📸 Output Screens  
-![](./output2.jpg)  
+![](./echop1.jpg)  
+![](./echop2.jpg)  
 
 ---
 
@@ -62,6 +63,7 @@ EchoVerse demonstrates how **AI + Speech Synthesis** can make text more expressi
 ---
 
 ✨ *Built with passion at [CognitiveX Hackathon at TKR]*  
+
 
 
 

@@ -6,9 +6,9 @@ It’s designed to make content more **accessible, engaging, and reusable** for 
 ---
 
 ## 👥 Team TechForge  
-- **S. Pranav**  
-- **M. Praveen**  
-- **N. Anirudh**  
+- **[S. Pranav](https://github.com/deepuchary03)**  
+- **[M. Praveen](https://github.com/praveenmaila)**  
+- **[N. Anirudh](https://github.com/anirudh8980)**  
 
 ---
 
@@ -62,4 +62,5 @@ EchoVerse demonstrates how **AI + Speech Synthesis** can make text more expressi
 ---
 
 ✨ *Built with passion at [Hackathon Name]*  
+
 

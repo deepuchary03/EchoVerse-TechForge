@@ -1,0 +1,29 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.mp3
+*.env
+*.lock
+*.log
+*.sqlite3
+*.db
+*.DS_Store
+.vscode/
+.idea/
+*.ipynb_checkpoints/
+attached_assets/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Python virtual environments
+venv/
+.env/
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
